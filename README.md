@@ -4,9 +4,9 @@
 This project is a simulation of a shell made in C during my third year in University.
 
 ## How to use
-1) Clone the project
-2) Type 'make' when inside the folder
-3) Type './Shell"
+1) Open a terminal inside the project folder
+2) Type `make`
+3) Type `./Shell`
 4) Then start using the simulated shell like a true shell, you can type many systems calls !
 
 ## Other projects
